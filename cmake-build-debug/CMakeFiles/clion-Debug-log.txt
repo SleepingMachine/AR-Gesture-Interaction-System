@@ -1,0 +1,9 @@
+/snap/clion/222/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/222/bin/ninja/linux/x64/ninja -G Ninja -S /home/sleepingmachine/code/AR-Gesture-Interaction-System -B /home/sleepingmachine/code/AR-Gesture-Interaction-System/cmake-build-debug
+-- OpenCV library status:
+--     config: /usr/local/lib/cmake/opencv4
+--     version: 4.7.0
+--     libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio
+--     include path: /usr/local/include/opencv4
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sleepingmachine/code/AR-Gesture-Interaction-System/cmake-build-debug

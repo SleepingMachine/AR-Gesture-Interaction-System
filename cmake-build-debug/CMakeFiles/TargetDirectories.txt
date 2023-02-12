@@ -1,0 +1,3 @@
+/home/sleepingmachine/code/AR-Gesture-Interaction-System/cmake-build-debug/CMakeFiles/AR-Gesture-Interaction-System.dir
+/home/sleepingmachine/code/AR-Gesture-Interaction-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sleepingmachine/code/AR-Gesture-Interaction-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
